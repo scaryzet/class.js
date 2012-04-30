@@ -1,0 +1,30 @@
+{
+  "name": "class.js",
+  "description": "A simple and efficient class inheritance implementation based on John Resig's code.",
+  "keywords": [
+    "class",
+	"oo",
+    "oop",
+    "inheritance"
+  ],
+  "version": "0.0.1",
+  "author": "Ivan Zhidkov <scaryzet@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scaryzet/class.js.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/scaryzet/class.js/master/LICENSE"
+  }
+}
