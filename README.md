@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/scaryzet/class.js.png)](http://travis-ci.org/scaryzet/class.js)
 [class.js](https://github.com/scaryzet/class.js)
 ================================================
 
